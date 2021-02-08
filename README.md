@@ -5,7 +5,7 @@ Scaffold for the Midterm project for the web development course.
 ## CREATE	YOUR	OWN	SCAFFOLD	
 
 ### Assignment	Description:	
-Each	individual	or	team	is	responsible	for	creaHng	their	own	website	scaffold	consisHng	ofDesign	file(s),	HTML	and	CSS	files.
+Each	individual	or	team	is	responsible	for	creaHng	their	own	website	scaffold	consisting	of Design	file(s),	HTML	and	CSS	files.
 The	scaffold	will	be	based	off	of	the	wireframes	selected	from an	individual	or	each	partner.
 
 ### Assignment	Requirements:
@@ -19,10 +19,10 @@ The	scaffold	will	be	based	off	of	the	wireframes	selected	from an	individual	or	
 
 ### Web	Page
 
-  -2	pages	
+  -2	pages
   -Semantic	HTML	5	tagging	
-  -Link	to	CSS	file,	JS	File	and	Reset	
-  -Valid	HTML5	&	CSS	
+  -Link	to	CSS	file,	JS	File	and	Reset
+  -Valid	HTML5	&	CSS
   -Proper	Document	Outline	
 
 ### Additional	Components	
