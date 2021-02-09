@@ -1,0 +1,13 @@
+.hidden
+{
+	display: none;
+}
+
+#container
+{
+	width: 960px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: 0 auto;
+	/*margin top and bottom 0, margin left and right equal*/
+}
