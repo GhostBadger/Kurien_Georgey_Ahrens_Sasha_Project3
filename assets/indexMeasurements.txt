@@ -1,0 +1,31 @@
+header: 
+	width: 960px
+	height:276px
+
+image carousel:
+	width: 909px
+	height: 476px
+
+content#1:
+	width: 332.14px
+	height: 108.04px
+
+content#2:
+	width: 332.14px
+	height: 108.04px
+
+Embedded Video 1:
+	width: 231.09px
+	height: 129.43px
+
+Embedded Video 2:
+	width: 231.09px
+	height: 129.43px
+
+Embedded Video 3:
+	width: 231.09px
+	height: 129.43px
+
+Footer Bar:
+	width: 960px
+	height: 135px

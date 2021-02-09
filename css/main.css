@@ -3,9 +3,33 @@
 	display: none;
 }
 
+#topBar
+{
+background-color: black;
+height: 40px;
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+}
+
+.shopTop
+{
+background-color: red;
+width: 40px;
+
+}
+
+.loginTop
+{
+background-color: blue;
+width: 40px;
+}
+
+
 #container
 {
 	width: 960px;
+	height: 943px;
 	padding-left: 10px;
 	padding-right: 10px;
 	margin: 0 auto;
@@ -13,6 +37,15 @@
 	flex-direction: column;
 	/*margin top and bottom 0, margin left and right equal*/
 }
+
+
+
+#header
+{
+background-color: #c6c6c6;
+
+}
+
 
 .header1
 {
@@ -25,6 +58,15 @@
 {
 	color: #ffffff;
 }
+
+#logo
+{
+	width:201px;
+	height:171.11px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
 
 .logo
 {
@@ -59,6 +101,22 @@
 	font-size: 30px;
 }
 
+
+nav ul
+{
+	display: flex;
+	flex-direction: row;
+	margin-top: 10px;
+	margin-left: 250px;
+	margin-right: 250px;
+	justify-content: space-between;text-decoration:none;
+}
+
+nav li
+{
+	color: #ffffff;
+	font-size: 30px;
+}
 
 .maincontent
 {
@@ -161,6 +219,45 @@
 	background-color: #9d9c9c;
 }
 
+#torso p
+{
+	text-align: center;
+	padding-bottom: 30px;
+	margin-top: 20px;
+	margin-bottom: 120px;
+}
+
+
+#contactAllContent
+{
+	display: flex;
+	flex-direction: row;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+#form-Building
+{
+width: 350;
+height: 276;
+margin-left: 70px;
+background-color: #c6c6c6;
+}
+
+#building
+{
+
+	margin-top: 20px;	
+}
+
+#map
+{
+	margin-left: 60px;
+	background-color: #c6c6c6;
+}
+
 .video1 p
 {
 	color: #ffffff;
@@ -199,6 +296,18 @@
 	margin-top: 5px;
 }
 
+footer
+{
+	width: 960px;
+	height: 135px;
+	background-color: #c6c6c6;
+	margin-top: 316px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+}
+
 .footer
 {
 	display: flex;
@@ -229,12 +338,43 @@
 	text-align: center;
 }
 
+
+#socialMedia
+{
+
+	background-color:  #c6c6c6;;
+	height: 52px;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	margin-right: 40px;
+	
+}
+
+#facebook
+{
+	width: 52px;
+	
+}
+
+#instagram
+{
+
+	width: 52px;
+}
+
+#twitter
+{
+
+	width: 52px;
+
 .socialmedia
 {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
 	margin-left: -100px;
+
 
 }
 
