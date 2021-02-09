@@ -39,11 +39,13 @@ width: 40px;
 }
 
 
+
 #header
 {
 background-color: #c6c6c6;
 
 }
+
 
 .header1
 {
@@ -65,11 +67,11 @@ background-color: #c6c6c6;
 	margin-left: auto;
 }
 
+
 .logo
 {
 	display: flex;
 	flex-direction: column;
-	
 }
 .logomain
 {
@@ -100,7 +102,6 @@ background-color: #c6c6c6;
 }
 
 
-
 nav ul
 {
 	display: flex;
@@ -116,11 +117,6 @@ nav li
 	color: #ffffff;
 	font-size: 30px;
 }
-
-
-
-
-
 
 .maincontent
 {
@@ -261,6 +257,7 @@ background-color: #c6c6c6;
 	margin-left: 60px;
 	background-color: #c6c6c6;
 }
+
 .video1 p
 {
 	color: #ffffff;
@@ -298,6 +295,7 @@ background-color: #c6c6c6;
 	text-align: center;
 	margin-top: 5px;
 }
+
 footer
 {
 	width: 960px;
@@ -307,7 +305,9 @@ footer
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+
 }
+
 .footer
 {
 	display: flex;
@@ -338,6 +338,7 @@ footer
 	text-align: center;
 }
 
+
 #socialMedia
 {
 
@@ -366,6 +367,15 @@ footer
 {
 
 	width: 52px;
+
+.socialmedia
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin-left: -100px;
+
+
 }
 
 .socialmedia h3
